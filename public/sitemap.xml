@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/aventure/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/d%C3%A9but/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dessin/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/mon-premier-dessin/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2023-10-01T10:00:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>

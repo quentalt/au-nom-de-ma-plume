@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Au nom de ma plume</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Au nom de ma plume</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aventure</title>
+      <link>http://localhost:1313/tags/aventure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/aventure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Début</title>
+      <link>http://localhost:1313/tags/d%C3%A9but/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/d%C3%A9but/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Dessin</title>
+      <link>http://localhost:1313/tags/dessin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dessin/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

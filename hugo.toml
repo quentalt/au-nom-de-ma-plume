@@ -1,0 +1,4 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+theme="archie"
+title = 'Au nom de ma plume'

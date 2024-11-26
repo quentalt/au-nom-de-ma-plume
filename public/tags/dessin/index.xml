@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dessin on Au nom de ma plume</title>
+    <link>http://localhost:1313/tags/dessin/</link>
+    <description>Recent content in Dessin on Au nom de ma plume</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Oct 2023 10:00:00 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/dessin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mon Premier Dessin : Une Aventure Visuelle</title>
+      <link>http://localhost:1313/posts/mon-premier-dessin/</link>
+      <pubDate>Sun, 01 Oct 2023 10:00:00 +0200</pubDate>
+      <guid>http://localhost:1313/posts/mon-premier-dessin/</guid>
+      <description>Introduction Bonjour à tous ! Je suis ravi de vous présenter mon tout premier dessin sur ce blog. C&amp;rsquo;est un moment important pour moi, et j&amp;rsquo;espère que vous apprécierez autant mon travail que je l&amp;rsquo;ai apprécié à créer.&#xA;L&amp;rsquo;idée L&amp;rsquo;idée pour ce dessin est venue après une longue période d&amp;rsquo;inspiration et de recherche. J&amp;rsquo;ai toujours été fasciné par les paysages fantastiques et les créatures légendaires, et j&amp;rsquo;ai voulu mélanger ces deux éléments dans un seul et même tableau.</description>
+    </item>
+  </channel>
+</rss>
